@@ -19,8 +19,8 @@ const frasesFelipe = [
     "Number 17 is like a jellybean that can teleport 🍬🌀. By Felipe",
     "Number 18 is a disco ball in a swimming pool 🏊‍♀️💃. By Felipe",
     "Number 19 is a cactus that gives hugs 🌵🤗. By Felipe",
-    "Number 20 is the final boss in a video game 🎮👾. By Felipe"
-    "Number 20 is o dia que comemoro aniversário de namoro com a nika <3. By Felipe",
+    "Number 20 is the final boss in a video game 🎮👾. By Felipe",
+    "Number 20 is o dia que comemoro aniversário de namoro com a nika <3. By Felipe"
 ];
 
 const frasesNika = [
